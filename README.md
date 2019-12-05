@@ -10,6 +10,7 @@ or
 prerequisite install docker
 
 open powershell(windows) or terminal(MACOS or linux)
+
 $ wget https://concourse-ci.org/docker-compose.yml
 $ docker-compose up -d
 Creating docs_concourse-db_1 ...
